@@ -9,7 +9,7 @@ on:
       - synchronize
   push:
     branches:
-      - rhoai-v*
+      - test
 
 env:
   REGISTRY: quay.io
